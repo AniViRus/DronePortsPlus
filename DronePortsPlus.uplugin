@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0.0",
 	"FriendlyName": "DronePortsPlus",
-	"Description": "Enhances Drone Ports' UI for simpler warning handling and ports view",
+	"Description": "Enhances Drone Ports' UI for simpler errors handling and ports view/search",
 	"Category": "Modding",
 	"CreatedBy": "AniViRus Productions",
 	"CreatedByURL": "",
