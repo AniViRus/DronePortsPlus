@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
+	"VersionName": "1.1.2",
 	"FriendlyName": "Drone Ports Plus",
 	"Description": "Enhances Drone Ports' UI for simpler errors handling and ports view/search",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.0"
 		}
 	],
-	"SemVersion": "1.1.1",
+	"SemVersion": "1.1.2",
 	"GameVersion": ">=410840"
 }
